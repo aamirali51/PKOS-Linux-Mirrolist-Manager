@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=PKOS Linux Mirrorlist Manager
+Comment=Manage Arch Linux mirror lists with a modern GUI
+GenericName=Mirror List Manager
+Exec=python3 /path/to/main.py
+Icon=preferences-system-network
+Terminal=false
+Type=Application
+Categories=System;Settings;Network;
+Keywords=mirror;pacman;arch;linux;pkos;network;repository;
+StartupNotify=true
+MimeType=text/plain;
+
+# Branding Information
+X-PKOS-Developer=Aamir Abdullah
+X-PKOS-Email=aamirabdullah33@gmail.com
+X-PKOS-License=Open Source
+X-PKOS-Version=2.0
